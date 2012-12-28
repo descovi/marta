@@ -1,8 +1,0 @@
-Date: 6 October 2009
-Categories: food, travel
-
-# Breakfast in Europe
-
-This is a page about breakfast.
-
-...
